@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfToggl",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfToggl",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
