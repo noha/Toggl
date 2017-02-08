@@ -1,3 +1,6 @@
 *.image
 *.changes
 local-scripts/
+PharoDebug.log
+github-cache/
+pharo-local/
