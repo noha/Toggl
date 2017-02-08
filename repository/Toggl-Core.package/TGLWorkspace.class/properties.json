@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Toggl-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"id",
+		"name",
+		"apiToken",
+		"clients",
+		"projects",
+		"users"
+	],
+	"name" : "TGLWorkspace",
+	"type" : "normal"
+}

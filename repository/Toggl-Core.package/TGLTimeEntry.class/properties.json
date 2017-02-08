@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "",
+	"super" : "TGLWorkspaceObject",
+	"category" : "Toggl-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"id",
+		"client",
+		"description",
+		"tags",
+		"project",
+		"user",
+		"startDate",
+		"endDate",
+		"duration"
+	],
+	"name" : "TGLTimeEntry",
+	"type" : "normal"
+}

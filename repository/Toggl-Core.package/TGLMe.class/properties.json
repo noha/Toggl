@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TGLUser",
+	"category" : "Toggl-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"workspaces"
+	],
+	"name" : "TGLMe",
+	"type" : "normal"
+}
